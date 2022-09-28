@@ -48,6 +48,8 @@ header nav{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none;
+    color: white;
 
 }
 
@@ -89,7 +91,9 @@ header{
 }
 
 .bg-blue{
-background-image: url(../img/jumbo.png);}
+    background-image: url(../img/jumbo.png);
+    
+}
 
 .row{
     display: flex;
